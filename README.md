@@ -8,7 +8,7 @@ FastAPI 기반 민들레 데이터 분석 백엔드 프로젝트입니다.
 
 ### 1. 저장소 클론
 ```bash
-git clone https://github.com/wholeseeds/Mindle-Analysis-API.git
+git clone https://github.com/WholeSeeds/Mindle-Analysis-API.git
 cd Mindle-Analysis-API
 ```
 
